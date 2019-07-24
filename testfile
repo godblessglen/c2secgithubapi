@@ -1,5 +1,5 @@
 c2sectest password
 source code server ssh key
-credential DB mysql username
+mysql username passwd
 oracle username password
 
