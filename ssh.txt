@@ -1,3 +1,5 @@
 c2secsshtest for github
 my ssh username
 password
+AWS token
+Google
